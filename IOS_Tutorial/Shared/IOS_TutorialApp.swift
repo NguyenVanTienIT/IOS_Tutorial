@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-@main
+// @main
 struct IOS_TutorialApp: App {
     let persistenceController = PersistenceController.shared
     var scrum = DailyScrum.sampleData[0]
